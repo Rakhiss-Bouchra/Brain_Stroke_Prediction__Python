@@ -7,17 +7,17 @@ The project is developed using Python and utilizes popular libraries such as sci
 Kaggle offers an original Stroke Prediction Dataset available for public access at the following web link: https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset
 
 ## Attribute Information
-gender: "Male", "Female" or "Other".
-age: age of the patient.
-hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension.
-heartdisease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease.
-evermarried: "No" or "Yes".
-worktype: "children", "Govtjov", "Neverworked", "Private" or "Self-employed".
-Residencetype: "Rural" or "Urban".
-avgglucoselevel: average glucose level in blood.
-bmi: body mass index.
-smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown".
-stroke: 1 if the patient had a stroke or 0 if not.
+- gender: "Male", "Female" or "Other".
+- age: age of the patient.
+- hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension.
+- heartdisease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease.
+- evermarried: "No" or "Yes".
+- worktype: "children", "Govtjov", "Neverworked", "Private" or "Self-employed".
+- Residencetype: "Rural" or "Urban".
+- avgglucoselevel: average glucose level in blood.
+- bmi: body mass index.
+- smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown".
+- stroke: 1 if the patient had a stroke or 0 if not.
 
 # Librairies
 - Matplotlib
